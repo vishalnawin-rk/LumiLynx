@@ -1,8 +1,9 @@
 
-# Smart Street Light Fault Detection System 🚦
+# 💡 LumiLynx <img width="50" height="50" src="https://github.com/user-attachments/assets/729cdc75-87a4-4b76-9c1d-606073cc6731"/>
+
 
 ### Overview
-The Smart Street Light Fault Detection System is an IoT-based solution designed to monitor urban street lighting infrastructure in real-time. This project addresses the inefficiencies in current street light maintenance by detecting and classifying faults such as non-functional lights and cable issues. By providing precise fault type identification and exact location tracking, this system ensures faster and more efficient maintenance, reducing linemen's workload.
+LumiLynx is an IoT-based solution designed to monitor urban street lighting infrastructure in real-time. This project addresses the inefficiencies in current street light maintenance by detecting and classifying faults such as non-functional lights and cable issues. By providing precise fault type identification and exact location tracking, this system ensures faster and more efficient maintenance, reducing linemen's workload.
 
 ### Features
 - **Real-time Monitoring**: Continuous monitoring of street lights using LDRs, Current Sensors, and ESP8266 module.
@@ -12,7 +13,7 @@ The Smart Street Light Fault Detection System is an IoT-based solution designed 
 - **Web Dashboard**: Displays fault data and locations for easy access and efficient management.
 
 ### Components Used
-- **Light Dependent Resistors (LDR)**: Detects light intensity to identify non-functional street lights.
+- **Light Dependent Resistors (LDR)**: Detects light intensity to identify non-functional s.
 - **Current Sensors**: Monitors the current flow to detect abnormal behavior like cable faults.
 - **ESP8266 Wi-Fi Module**: Transmits data to the cloud for real-time monitoring.
 - **Microcontroller**: Controls sensors and processes fault data.
