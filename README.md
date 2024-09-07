@@ -45,8 +45,4 @@ The Smart Street Light Fault Detection System is an IoT-based solution designed 
 - **Energy Optimization**: Extend the system to optimize energy usage based on real-time lighting needs.
 - **Advanced Fault Detection**: Introduce machine learning algorithms for predicting potential faults before they occur.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Acknowledgments
-- Special thanks to open-source IoT platforms and the embedded systems community for their contributions.
